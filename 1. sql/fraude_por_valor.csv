@@ -1,0 +1,5 @@
+"faixa_de_valor","total_transacoes","quantidade_fraudes","percentual_fraude"
+"3. Médio (100 a 1000)",53568,121,0.226
+"1. Micro (Até 10)",100264,249,0.248
+"4. Alto (Acima de 1000)",2940,9,0.306
+"2. Baixo (10 a 100)",128035,113,0.088
